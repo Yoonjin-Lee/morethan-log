@@ -27,7 +27,7 @@ const CONFIG = {
   link: "https://yoonjin-blog.vercel.app",
   since: 2024, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://prod-files-secure.s3.us-west-2.amazonaws.com/26d3bcb9-17a8-4772-a18b-af2254fa4260/5b2de4d1-9bb3-4bd0-9468-29c3ac5c0189/notion-avatar.png", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
