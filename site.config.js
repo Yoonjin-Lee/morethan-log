@@ -6,7 +6,7 @@ const CONFIG = {
     role: "android/embedded developer",
     bio: "I develop to support human life",
     email: "peacemiller@naver.com",
-    linkedin: "YOONJIN LEE",
+    linkedin: "yoonjin-lee-kr",
     github: "Yoonjin-Lee",
     instagram: "",
   },
