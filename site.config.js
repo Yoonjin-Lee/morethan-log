@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `미주정복`,
+      href: "https://github.com/Yoonjin-Lee/us-dividend",
     },
   ],
   // blog setting (required)
